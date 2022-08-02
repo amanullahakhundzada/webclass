@@ -1,0 +1,4 @@
+1.Make some edits 
+2. Asdd edited files to staging area
+3. Mkae a commmit with missage 
+4. push to remote
